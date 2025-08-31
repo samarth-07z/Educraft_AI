@@ -356,11 +356,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 <div align="left">
 
-**Made with ❤️ by the EduCraft AI Team**
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/educraft-ai?style=social)](https://github.com/yourusername/educraft-ai)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/educraft-ai?style=social)](https://github.com/yourusername/educraft-ai)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/educraft-ai)](https://github.com/yourusername/educraft-ai/issues)
+**Made with ❤️ by the Samarth S**
 
 **Star this repository if it helped you! ⭐**
 
