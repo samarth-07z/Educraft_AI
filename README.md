@@ -45,14 +45,6 @@
 
 ---
 
-## 🎥 Demo
-
-<div align="center">
-
-**Watch EduCraft AI in Action**
-
-![Course Generation Demo](https://via.placeholder.com/800x400/8B5CF6/FFFFFF?text=AI+Course+Generation+Demo)
-
 *Generate a complete course in seconds with AI-powered content creation*
 
 </div>
@@ -105,7 +97,7 @@ cd educraft-ai-backend
 npm install
 ```
 
-Create a `.env` file in the backend directory:
+Edit the `.env` file in the backend directory with your API keys:
 ```env
 MONGODB_URI=mongodb://localhost:27017/educraftDB
 GEMINI_API_KEY=your_gemini_api_key_here
@@ -124,7 +116,7 @@ npm install
 **Terminal 1 - Backend:**
 ```bash
 cd educraft-ai-backend
-npm start
+node index.js
 ```
 
 **Terminal 2 - Frontend:**
