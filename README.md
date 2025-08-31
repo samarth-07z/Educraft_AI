@@ -11,7 +11,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-8.17+-47A248?style=flat-square&logo=mongodb)](https://mongodb.com/)
 [![Gemini AI](https://img.shields.io/badge/Gemini%20AI-2.5%20Flash-4285F4?style=flat-square&logo=google)](https://ai.google.dev/)
 
-[Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [API Reference](#-api-reference) • [Contributing](#-contributing)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [API Reference](#-api-reference) • [Contributing](#-contributing)
 
 </div>
 
