@@ -1,0 +1,44 @@
+{
+  "name": "educraft-ai",
+  "version": "1.0.0",
+  "description": "AI-powered course builder with interactive quizzes, progress tracking, and curated video content",
+  "main": "index.js",
+  "scripts": {
+    "install:all": "npm install && cd educraft-ai-backend && npm install && cd ../educraft-ai-frontend && npm install",
+    "start:backend": "cd educraft-ai-backend && npm start",
+    "start:frontend": "cd educraft-ai-frontend && npm start",
+    "dev": "concurrently \"npm run start:backend\" \"npm run start:frontend\"",
+    "build": "cd educraft-ai-frontend && npm run build",
+    "test": "cd educraft-ai-backend && npm test && cd ../educraft-ai-frontend && npm test",
+    "lint": "cd educraft-ai-backend && npm run lint && cd ../educraft-ai-frontend && npm run lint"
+  },
+  "keywords": [
+    "ai",
+    "education",
+    "course-builder",
+    "react",
+    "nodejs",
+    "mongodb",
+    "gemini-ai",
+    "youtube-api",
+    "quiz",
+    "progress-tracking"
+  ],
+  "author": "samarth-07z",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samarth-07z/Educraft_AI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/samarth-07z/Educraft_AI/issues"
+  },
+  "homepage": "https://github.com/samarth-07z/Educraft_AI#readme",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  }
+}
