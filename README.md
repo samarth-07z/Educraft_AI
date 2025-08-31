@@ -97,7 +97,7 @@ cd educraft-ai-backend
 npm install
 ```
 
-Edit the `.env` file in the backend directory with your API keys:
+Create a `.env` file in the backend directory with your API keys:
 ```env
 MONGODB_URI=mongodb://localhost:27017/educraftDB
 GEMINI_API_KEY=your_gemini_api_key_here
