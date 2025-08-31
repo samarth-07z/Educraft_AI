@@ -1,6 +1,6 @@
 # 🚀 EduCraft AI - Intelligent Course Builder
 
-<div align="center">
+<div align="left">
 
 ![EduCraft AI Logo](https://img.shields.io/badge/EduCraft-AI%20Course%20Builder-8B5CF6?style=for-the-badge&logo=robot&logoColor=white)
 
@@ -344,27 +344,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ---
 
-## 📞 Support
-
-### Getting Help
-- **Documentation**: [Wiki](https://github.com/yourusername/educraft-ai/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/educraft-ai/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/educraft-ai/discussions)
-- **Email**: support@educraft-ai.com
-
-### Community
-- **Discord**: [Join our community](https://discord.gg/educraft-ai)
-- **Twitter**: [@EduCraftAI](https://twitter.com/EduCraftAI)
-- **Blog**: [Latest updates and tutorials](https://blog.educraft-ai.com)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - **Google Gemini AI** for powerful course generation capabilities
@@ -375,7 +354,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">
+<div align="left">
 
 **Made with ❤️ by the EduCraft AI Team**
 
